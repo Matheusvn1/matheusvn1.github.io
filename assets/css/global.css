@@ -27,12 +27,17 @@ body {
  }
 
  body { background-color: lightgreen; }
+ img {
+    width: 500px;
+    height: auto;
+    float: top;
+ }
 
 h1 {
     font-size: 78px;
     font-weight: normal;
     letter-spacing: -2px;
-    margin-bottom: 12px;
+    margin-bottom: 12px;0
     line-height: 1.2;
 }
 
