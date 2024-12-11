@@ -3,6 +3,8 @@
 .col-3 h3 { margin-bottom: 16px }
 
 /* Add your custom CSS below */
+header.theme-light h1 span.highlight { color: var(--green-500) }
+
 header.theme-light .container-btn a.btn:nth-child(1):link,
 header.theme-light .container-btn a.btn:nth-child(1):visited { border-color: var(--green-500) }
 
